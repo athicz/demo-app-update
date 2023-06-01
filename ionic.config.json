@@ -1,0 +1,7 @@
+{
+  "name": "bg-updater",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
