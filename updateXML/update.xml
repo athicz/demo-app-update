@@ -1,0 +1,5 @@
+<update>
+      <version>103</version>
+      <name>APK Name</name>
+      <url>http://192.168.1.42:8080/files/app-debug.apk</url>
+ </update>
